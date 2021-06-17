@@ -1,0 +1,7 @@
+1.Run the code which ever version you want to play(single player ,two players,series play)
+2.The program asks for input.Select the cell you want to place your icon (1-9)
+3.Your icon is displayed in the input cell that you have selected.
+4.The program asks the player2's input if its a two player game.else it is randomly selected by the program itself
+5.Step2,3,4 are repeated until one of the player wins or all the cells are filled.
+6.A player wins if his icon occupies 3 cells of a row or a column or a diagonal. Its a tie if it doesnt happen in the case   of any player
+7.when the game ends scores are displayed.Winner gets 10 points .Each player is given 5 points if its a tie
